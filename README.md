@@ -1,5 +1,5 @@
 # AdvanceMEOW
-A way for musicians and managers to automatically advance their tour bookings
+A way for musicians to automatically advance their tour
 
 Overview
 
